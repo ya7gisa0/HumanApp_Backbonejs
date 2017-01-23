@@ -65,6 +65,7 @@ var HumanView = Backbone.View.extend({
     return this;
   }
 });
+
 // Backbone View for all humans
 var HumansView = Backbone.View.extend({
   model: humans,
